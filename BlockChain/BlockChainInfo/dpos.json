@@ -1,0 +1,49 @@
+{
+  "config": {
+    "chainId": 1012,
+    "dpos": {
+      "period": 2,
+      "witnessesNum": 4,
+      "witnessesUrl": [
+        "/ip4/127.0.0.1/tcp/12340/ipfs/1kHZWJ746EiLEtnS2HbyotecFiACqsGMDKEJUMUrFRsAkvE",
+        "/ip4/127.0.0.1/tcp/12341/ipfs/1kHLCkxXuAyHAqTMaEQ42ZyNujzUiJGwcHSxDkw1xxLffX5",
+        "/ip4/127.0.0.1/tcp/12342/ipfs/1kHbxGcEZMqmJoA7CrermdvWijE3a15Wo5C7Qmuc5S8TGiD",
+        "/ip4/127.0.0.1/tcp/12343/ipfs/1kHe58FxW3uk3FyRYo8gkRwCS7EMwFKtdTqDtWCwWFGtd22"
+      ]
+    }
+  },
+  "timestamp": "0x5c2a3d00",
+  "extraData": "0x",
+  "gasLimit": "0x47b760",
+  "difficulty": "0x1",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "alloc": {
+    "0xf85690b77f1baa872aa4a559dca2aa22ec82545c": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "0xd9f8401725d0bdec65f5215d5b0d16ac43ee8796": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "0xbf332f3c55615f75c5ddbf32640fa4cf82cb0300": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "0xf5eaf082178ff3e2679e47eda00e8ed744863b65": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "0x491f4e8d914e30b1a5e8c804789094fe30971807": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    },
+    "0xe23f3ed4b6969f29284f667c16761212678c917d": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "witnesses": [
+    "0xf85690b77f1baa872aa4a559dca2aa22ec82545c",
+    "0xd9f8401725d0bdec65f5215d5b0d16ac43ee8796",
+    "0xbf332f3c55615f75c5ddbf32640fa4cf82cb0300",
+    "0xf5eaf082178ff3e2679e47eda00e8ed744863b65"
+  ],
+  "number": "0x0",
+  "gasUsed": "0x0",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+}
