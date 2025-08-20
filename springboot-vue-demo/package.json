@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "axois": "^0.0.1-security",
+    "gcc": "^1.0.2",
+    "qrcodejs2": "^0.0.2",
+    "sass-loader": "^12.6.0",
+    "vnt": "github:vntchain/vnt.js",
+    "vue-cli": "^2.9.6",
+    "vue-particles": "^1.0.9",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "vue-template-compiler": "^2.6.14",
+    "vue-wxlogin": "^1.0.4"
+  }
+}
