@@ -73,7 +73,7 @@ npm install --save ethereumjs-tx@1.3.7
 npm install --save ethereumjs-account
 
 # 4. Configure & run a local VNT test network (see official docs)
-
+```
 ## 🔐 Smart Contract Design  
 - **NFT Counter**: auto-increment unique ID  
 - **Ownership Mapping**: Artwork ID → Owner’s blockchain address  
